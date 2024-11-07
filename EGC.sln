@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EGC", "EGC\EGC.csproj", "{A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triunghi", "Triunghi\Triunghi.csproj", "{2C7C7D23-9779-4DCD-95E1-DE3CAC6BE347}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubRain", "CubRain\CubRain.csproj", "{664A1D5F-23DD-4ED7-9866-EF3A9E8304C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubCuloare", "CubCuloare\CubCuloare.csproj", "{73260029-33B8-4C8B-B2F0-DEA7FC03B5D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{2C7C7D23-9779-4DCD-95E1-DE3CAC6BE347}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C7C7D23-9779-4DCD-95E1-DE3CAC6BE347}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C7C7D23-9779-4DCD-95E1-DE3CAC6BE347}.Release|Any CPU.Build.0 = Release|Any CPU
+		{664A1D5F-23DD-4ED7-9866-EF3A9E8304C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{664A1D5F-23DD-4ED7-9866-EF3A9E8304C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{664A1D5F-23DD-4ED7-9866-EF3A9E8304C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{664A1D5F-23DD-4ED7-9866-EF3A9E8304C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73260029-33B8-4C8B-B2F0-DEA7FC03B5D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73260029-33B8-4C8B-B2F0-DEA7FC03B5D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73260029-33B8-4C8B-B2F0-DEA7FC03B5D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73260029-33B8-4C8B-B2F0-DEA7FC03B5D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
